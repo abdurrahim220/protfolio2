@@ -14,7 +14,7 @@
 
 .banner-title {
     font-size: 45px;
-    font-weight: 700;
+    font-weight: 810;
     color: #151414;
     text-align: right;
     margin-left: 700px;
@@ -97,8 +97,8 @@
 }
 
 .plans {
-    padding: 0 90px;
-    margin-left: 60px;
+    padding: 0 100px;
+    margin-left: 100px;
     align-items: center;
     justify-content: space-around;
     text-align: center;
